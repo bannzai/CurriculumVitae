@@ -73,7 +73,7 @@
 - [田中、仙台に生きる(新)](http://tanakalivesinsendai.hatenablog.com/)
 - [田中、仙台に生きる(旧)](http://tanakalivesinsendai.blogspot.jp/)
 
-### 登壇
+### 登壇等
 
 - [iOSオールスターズ2](https://eventdots.jp/event/602872)
 	- [\[イベントレポート\] iOSオールスターズ2最速レポート！ \#eventdots ｜ Developers\.IO](http://dev.classmethod.jp/smartphone/iphone/event-report-ios-all-stars-2/)
@@ -84,6 +84,9 @@
 - AKIBA.swift(複数回)
 	- [AKIBA\.swift 第7回で📦が発表しました！ \#akibaswift ｜ Developers\.IO](http://dev.classmethod.jp/smartphone/iphone/akiba-swift-7-presentation-by-kt/)
 	- [第一回AKIBA\.swiftで登壇しました ｜ Developers\.IO](http://dev.classmethod.jp/smartphone/iphone/blending-culture-in-twitter-client-akiba-swift/)
+- [iosdc.fm](http://iosdc.fm/)
+	- [ep.009ゲスト出演](http://dev.classmethod.jp/smartphone/iphone/iosdc-fm-guest-attendance/)
+	- [ep.010ゲスト出演](http://dev.classmethod.jp/smartphone/iphone/iosdc-fm-guest-attendance-ep-010/)
 - などなどなど
 
 ### 受賞
