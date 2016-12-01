@@ -1,5 +1,7 @@
 # 職務経歴書
 
+![](tanaka.jpg)
+
 ## 基本情報
 
 |key|value|
