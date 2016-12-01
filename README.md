@@ -16,20 +16,23 @@
 
 ## 職務経歴
 
-- クラスメソッド株式会社(バイト: 2016/4〜2016/9, 正社員: 2016/10〜)
-	- iOSアプリ開発の受託
-		- 既存WebサービスのiOSアプリ化
-		- 月額定期購読課金の実装
-- Wantedly(夏季インターン)
-	- [田中、仙台に生きる: Wantedlyインターン1日目](http://tanakalivesinsendai.blogspot.jp/2015/08/wantedly1.html)
-- 株式会社GClue(バイト)
-	- 下記リンクのサンプル作成2〜30個
-	- [逆引きSwift\(iOS編\) \- Swift Docs](https://sites.google.com/a/gclue.jp/swift-docs/ni-yinki100-ios)
-- 株式会社デザイニウム(バイト・インターン)
-	- OmronのHVC-Cを用いたプロトタイプアプリ作成
-		- [にらめっこ \| アプリ \| Sensing Egg Project オムロン×IoT\-人理解画像センサ\(HVC\)](https://plus-sensing.omron.co.jp/egg-project/app/thedesignium2/)
-		- [FaceShooter \| アプリ \| Sensing Egg Project オムロン×IoT\-人理解画像センサ\(HVC\)](https://plus-sensing.omron.co.jp/egg-project/app/tanakakenji/)
-	- ビーコン連携アプリのプロトタイプ作成
+### クラスメソッド株式会社(バイト: 2016/4〜2016/9, 正社員: 2016/10〜)
+- iOSアプリ開発の受託
+	- 既存WebサービスのiOSアプリ化
+	- 月額定期購読課金の実装
+
+### Wantedly(夏季インターン)
+- [田中、仙台に生きる: Wantedlyインターン1日目](http://tanakalivesinsendai.blogspot.jp/2015/08/wantedly1.html)
+
+### 株式会社GClue(バイト)
+- 下記リンクのサンプル作成2〜30個
+- [逆引きSwift\(iOS編\) \- Swift Docs](https://sites.google.com/a/gclue.jp/swift-docs/ni-yinki100-ios)
+
+### 株式会社デザイニウム(バイト・インターン)
+- OmronのHVC-Cを用いたプロトタイプアプリ作成
+	- [にらめっこ \| アプリ \| Sensing Egg Project オムロン×IoT\-人理解画像センサ\(HVC\)](https://plus-sensing.omron.co.jp/egg-project/app/thedesignium2/)
+	- [FaceShooter \| アプリ \| Sensing Egg Project オムロン×IoT\-人理解画像センサ\(HVC\)](https://plus-sensing.omron.co.jp/egg-project/app/tanakakenji/)
+- ビーコン連携アプリのプロトタイプ作成
 
 ## 活動
 
@@ -45,19 +48,21 @@
 
 ### イベント運営
 
-- AKIBA.swift
-	- [第一回AKIBA\.swiftで登壇しました ｜ Developers\.IO](http://dev.classmethod.jp/smartphone/iphone/blending-culture-in-twitter-client-akiba-swift/)
-	- [第二回AKIBA\.swift を開催しました！ \#akibaswift ｜ Developers\.IO](http://dev.classmethod.jp/smartphone/akiba-swift2/)
-	- [第三回AKIBA\.swift を開催しました！ \#akibaswift ｜ Developers\.IO](http://dev.classmethod.jp/smartphone/akiba-swift3/)
-	- [「AKIBA\.swift 第４回」を開催しました！ \#akibaswift ｜ Developers\.IO](http://dev.classmethod.jp/smartphone/akiba-swift4/)
-	- [AKIBA\.swift×Swift愛好会を開催しました！ \#love\_swift \#akibaswif ｜ Developers\.IO](http://dev.classmethod.jp/smartphone/iphone/swift-lovexakiba-swift/)
-	- [「AKIBA\.swift 第5回」を開催しました！ \#akibaswift ｜ Developers\.IO](http://dev.classmethod.jp/smartphone/akiba-swift-5/)
-	- [「AKIBA\.swift 第6回」を開催しました！ \#akibaswift ｜ Developers\.IO](http://dev.classmethod.jp/smartphone/akiba-swift-6/)
-	- [「AKIBA\.swift 第7回」を開催しました！ \#akibaswift ｜ Developers\.IO](http://dev.classmethod.jp/smartphone/akiba-swift-7/)
-- 仙台Swift勉強会
-	- [田中、仙台に生きる: 仙台Swift勉強会〜Hello, Swift\!〜を開催しました](http://tanakalivesinsendai.blogspot.jp/2014/11/swifthello-swift.html)
-	- [田中、仙台に生きる: Swiftで0からスタートするiOS〜UIKitの使い方〜　第1回開催Done](http://tanakalivesinsendai.blogspot.jp/2015/05/swift0iosuikit1done.html)
-- [会津開発合宿2014(会津Swift合宿)](http://www.thedesignium.com/summer-camp14/)
+#### AKIBA.swift
+- [第一回AKIBA\.swiftで登壇しました ｜ Developers\.IO](http://dev.classmethod.jp/smartphone/iphone/blending-culture-in-twitter-client-akiba-swift/)
+- [第二回AKIBA\.swift を開催しました！ \#akibaswift ｜ Developers\.IO](http://dev.classmethod.jp/smartphone/akiba-swift2/)
+- [第三回AKIBA\.swift を開催しました！ \#akibaswift ｜ Developers\.IO](http://dev.classmethod.jp/smartphone/akiba-swift3/)
+- [「AKIBA\.swift 第４回」を開催しました！ \#akibaswift ｜ Developers\.IO](http://dev.classmethod.jp/smartphone/akiba-swift4/)
+- [AKIBA\.swift×Swift愛好会を開催しました！ \#love\_swift \#akibaswif ｜ Developers\.IO](http://dev.classmethod.jp/smartphone/iphone/swift-lovexakiba-swift/)
+- [「AKIBA\.swift 第5回」を開催しました！ \#akibaswift ｜ Developers\.IO](http://dev.classmethod.jp/smartphone/akiba-swift-5/)
+- [「AKIBA\.swift 第6回」を開催しました！ \#akibaswift ｜ Developers\.IO](http://dev.classmethod.jp/smartphone/akiba-swift-6/)
+- [「AKIBA\.swift 第7回」を開催しました！ \#akibaswift ｜ Developers\.IO](http://dev.classmethod.jp/smartphone/akiba-swift-7/)
+
+#### 仙台Swift勉強会
+- [田中、仙台に生きる: 仙台Swift勉強会〜Hello, Swift\!〜を開催しました](http://tanakalivesinsendai.blogspot.jp/2014/11/swifthello-swift.html)
+- [田中、仙台に生きる: Swiftで0からスタートするiOS〜UIKitの使い方〜　第1回開催Done](http://tanakalivesinsendai.blogspot.jp/2015/05/swift0iosuikit1done.html)
+
+#### [会津開発合宿2014(会津Swift合宿)](http://www.thedesignium.com/summer-camp14/)
 
 ### ブログ
 最速を心がけたイベントレポートはイベント終了と同時にアップできるようにしています。
@@ -77,19 +82,24 @@
 
 ### 登壇等
 
-- [iOSオールスターズ2](https://eventdots.jp/event/602872)
-	- [\[イベントレポート\] iOSオールスターズ2最速レポート！ \#eventdots ｜ Developers\.IO](http://dev.classmethod.jp/smartphone/iphone/event-report-ios-all-stars-2/)
-- [iOSDC2016](https://iosdc.jp/2016/)
-	- [あのアニメのOP, EDっぽいアニメーションを実装する話（仮） \| iOSDC Japan 2016](https://iosdc.jp/2016/c/node/34)
-- Swift愛好会(1回)
-	- [CAShapeLayerの塗りつぶしルールでちょっとリッチな描画をしよう](http://www.slideshare.net/kenjitanaka58/ca-shape-layer)
-- AKIBA.swift(複数回)
-	- [AKIBA\.swift 第7回で📦が発表しました！ \#akibaswift ｜ Developers\.IO](http://dev.classmethod.jp/smartphone/iphone/akiba-swift-7-presentation-by-kt/)
-	- [第一回AKIBA\.swiftで登壇しました ｜ Developers\.IO](http://dev.classmethod.jp/smartphone/iphone/blending-culture-in-twitter-client-akiba-swift/)
-- [iosdc.fm](http://iosdc.fm/)
-	- [ep.009ゲスト出演](http://dev.classmethod.jp/smartphone/iphone/iosdc-fm-guest-attendance/)
-	- [ep.010ゲスト出演](http://dev.classmethod.jp/smartphone/iphone/iosdc-fm-guest-attendance-ep-010/)
-- などなどなど
+#### [iOSオールスターズ2](https://eventdots.jp/event/602872)
+- [\[イベントレポート\] iOSオールスターズ2最速レポート！ \#eventdots ｜ Developers\.IO](http://dev.classmethod.jp/smartphone/iphone/event-report-ios-all-stars-2/)
+
+#### [iOSDC2016](https://iosdc.jp/2016/)
+- [あのアニメのOP, EDっぽいアニメーションを実装する話（仮） \| iOSDC Japan 2016](https://iosdc.jp/2016/c/node/34)
+
+#### Swift愛好会(1回)
+- [CAShapeLayerの塗りつぶしルールでちょっとリッチな描画をしよう](http://www.slideshare.net/kenjitanaka58/ca-shape-layer)
+
+#### AKIBA.swift(複数回)
+- [AKIBA\.swift 第7回で📦が発表しました！ \#akibaswift ｜ Developers\.IO](http://dev.classmethod.jp/smartphone/iphone/akiba-swift-7-presentation-by-kt/)
+- [第一回AKIBA\.swiftで登壇しました ｜ Developers\.IO](http://dev.classmethod.jp/smartphone/iphone/blending-culture-in-twitter-client-akiba-swift/)
+
+#### [iosdc.fm](http://iosdc.fm/)
+- [ep.009ゲスト出演](http://dev.classmethod.jp/smartphone/iphone/iosdc-fm-guest-attendance/)
+- [ep.010ゲスト出演](http://dev.classmethod.jp/smartphone/iphone/iosdc-fm-guest-attendance-ep-010/)
+
+などなどなど。
 
 ### 受賞
 
