@@ -57,6 +57,7 @@
 - [「AKIBA\.swift 第5回」を開催しました！ \#akibaswift ｜ Developers\.IO](http://dev.classmethod.jp/smartphone/akiba-swift-5/)
 - [「AKIBA\.swift 第6回」を開催しました！ \#akibaswift ｜ Developers\.IO](http://dev.classmethod.jp/smartphone/akiba-swift-6/)
 - [「AKIBA\.swift 第7回」を開催しました！ \#akibaswift ｜ Developers\.IO](http://dev.classmethod.jp/smartphone/akiba-swift-7/)
+- [2016年 AKIBA\.swift忘年会を開催しました！ \#akibaswift ｜ Developers\.IO](http://dev.classmethod.jp/smartphone/2016-akiba-swift-year-end-party/)
 
 #### 仙台Swift勉強会
 - [田中、仙台に生きる: 仙台Swift勉強会〜Hello, Swift\!〜を開催しました](http://tanakalivesinsendai.blogspot.jp/2014/11/swifthello-swift.html)
