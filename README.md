@@ -38,9 +38,9 @@
 
 ### プログラミング / IT
 
-- Objective-C(1年くらい)
-- Swift(Swift誕生からずっと)
-- iOS(4年弱)
+- Objective-C(2013/04 〜 約一年)
+- Swift(2014年9月(Swift誕生から) 〜 )
+- iOS(2013/04 〜 )
 
 ### OSS
 
