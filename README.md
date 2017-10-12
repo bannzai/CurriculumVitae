@@ -104,7 +104,6 @@
 
 ### 受賞
 
-
 - [会津TechCAMP2014-優勝](http://tanakalivesinsendai.blogspot.jp/2014/11/techcamp.html)
 - EarthCommunicationAward2013-ChatWork賞
 - EarthCommunicationAward2013-ゼンリンデータコム賞
