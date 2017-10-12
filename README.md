@@ -28,7 +28,7 @@
 	- AWS
 
 ### 株式会社GClue(バイト)
-- 下記リンクのサンプル作成2〜30個
+- 下記リンクのサンプル作成20〜30個
 - [逆引きSwift\(iOS編\) \- Swift Docs](https://sites.google.com/a/gclue.jp/swift-docs/ni-yinki100-ios)
 
 ### 株式会社デザイニウム(バイト)
