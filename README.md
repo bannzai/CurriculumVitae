@@ -16,6 +16,17 @@
 
 ## 職務経歴
 
+- iOS(2013/04 〜 )
+	- Objective-C(2013/04 〜 2014/09)
+	- Swift(2014/09 〜 )
+- ウェブフロント(2017/07 〜 2017/09)
+	- JavaScript
+	- React
+- サーバーサイド(2017/09 〜 2017/10)
+	- Node.js
+	- シェルスクリプト
+	- AWS
+
 ### 株式会社GClue(バイト)
 - 下記リンクのサンプル作成2〜30個
 - [逆引きSwift\(iOS編\) \- Swift Docs](https://sites.google.com/a/gclue.jp/swift-docs/ni-yinki100-ios)
@@ -73,19 +84,6 @@
 			- ECS, S3
 
 ## 活動
-
-### 言語 / プラットフォーム
-
-- iOS(2013/04 〜 )
-	- Objective-C(2013/04 〜 2014/09)
-	- Swift(2014/09 〜 )
-- ウェブフロント(2017/07 〜 2017/09)
-	- JavaScript
-	- React
-- サーバーサイド(2017/09 〜 2017/10)
-	- Node.js
-	- シェルスクリプト
-	- AWS
 
 ### OSS
 
